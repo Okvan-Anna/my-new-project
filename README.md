@@ -6,17 +6,16 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project is made for everyone who wants help with their anxiety problems. The idea behind this project is to create a "wall" where you can write your problems and directly get help to solve them. The plan is that the "wall" will be like a therapist who you can talk to daily and get advice how to make your day better. It is important that the "wall" is up to date with the new algorithm techniques. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+This project is able to solve, or at least help with, the problem of anxiety. Everyone that need a therapist to talk with can trust the "wall" is always available (7 days at week & 24 hours a day). Maybe it is the first thing you do in the morning if you wake up with anxiety, or you turn to the "wall" during the day if you face some problems.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+Challenges:
+* The "wall" will not be your brain, you also need to think and learn from the "wall" and through that change your behaviour. 
+* The "wall" need to be smart and see if you ask the same questions and then remind you about that so you can learn from that.
 
 
 ## How is it used?
