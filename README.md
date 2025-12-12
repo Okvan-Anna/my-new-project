@@ -20,7 +20,15 @@ Challenges:
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The "wall" can offer a large range of support and as the time goes on, it will also learn new methods to help people with anxiety. With this, the "wall" is supposed to guide you in your behavior in order to improve your thinking and therefore minimize the level of anziety in you. This "wall" is made for everyone who struggels with anxiety and need daily guidence. The goal is also to minimize the doze of medicin that you take for your anxiety.
+
+The "wall" will also be able to:
+
+Listen and talk with the person;
+Learn which kind of person is;
+Answer specific questions (about social behavior, usefull tips, how you shall think in different situations, how you not shall think, how you control your feelings etc...).
+
+It can be used in textual mode (like a conversation with a therapist) or in speech mode (more like a phone call with a friend). It can be used by everyone no matter where you are, but of course the "wall" is personal och no one can reach your "wall".
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
