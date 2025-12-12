@@ -57,6 +57,15 @@ main()
 
 
 ## Data sources and AI methods
+
+For this project we'll need the necessary amount of data in order to program a correct algorithm of:
+
+Speech recognition;
+Natural Lenguage Processing;
+Learn from the owner;
+etc... .
+We should take the data from famous online database that is also open source and up to date about this argument.
+
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
@@ -67,6 +76,8 @@ If you need to use links, here's an example:
 | Paragraph   | Text        |
 
 ## Challenges
+
+Of course as every project it has is own limitations. For instance, the "wall" needs to learn you behaviour, come up with new ideas (create a common mindset,...).
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
