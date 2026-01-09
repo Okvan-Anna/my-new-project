@@ -47,4 +47,5 @@ Of course as every project it has is own limitations. For instance, the "wall" n
 ## What next?
 
 The next step in order to maximise this bot is to create a robotic structure, in this way, we must also implement the movement and a lot of stuff that is linked to it (image recognition, recognize patterns about the user, implement responses from trusted sources,...)
+
 It needs to be personal so you feel like the tools are tailored to you, that you get answers based on the behavior you have shown, ... 
